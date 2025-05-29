@@ -29,7 +29,7 @@ You will be prompted to enter various personal and custom inputs. The script wil
 ---
 ### Termux and Linux Full Install and Setup
 ```
-pkg update && pkg upgrade && pkg install git && git clone htt>
+apt update && apt upgrade && apt install python -y && apt install git -y && git clone https://github.com/thakur2309/Thanos.git && cd Thanos && python3 thanos.py
 ```
 
 ### [TERMUX , KALI LINUX] Packege Install Comments
@@ -38,21 +38,17 @@ pkg update && pkg upgrade && pkg install git && git clone htt>
 apt update && apt upgrade -y
 ```
 ```
-apt install php
+apt install python -y 
 ```
 ```
-apt install git
+apt install git -y 
 ```
 ```
-git clone https://github.com/thakur2309/Camhack.git
+git clone https://github.com/thakur2309/Thanos.git
 ```
 ```
-cd Camhack
+cd Thanos
 ```
-```
-chmod +x start.sh
-```
-
 ### Start tool command
 ```
 python3 thanos.py

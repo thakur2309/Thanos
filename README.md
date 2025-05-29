@@ -97,6 +97,6 @@ This tool is made for **educational and legal penetration testing** purposes onl
 </a>
 <br>
 
-<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2>
+<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?styl>
 </a>

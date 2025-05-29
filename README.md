@@ -27,6 +27,35 @@ Welcome to **UltraPassGen**, a powerful wordlist generator written in Python. De
 You will be prompted to enter various personal and custom inputs. The script will generate a `wordlist.txt` file with combinations.
 
 ---
+### Termux and Linux Full Install and Setup
+```
+pkg update && pkg upgrade && pkg install git && git clone htt>
+```
+
+### [TERMUX , KALI LINUX] Packege Install Comments
+
+```
+apt update && apt upgrade -y
+```
+```
+apt install php
+```
+```
+apt install git
+```
+```
+git clone https://github.com/thakur2309/Camhack.git
+```
+```
+cd Camhack
+```
+```
+chmod +x start.sh
+```
+
+### Start tool command
+```
+bash start.sh
 
 ## 📁 Output
 
@@ -54,3 +83,19 @@ If you find this tool helpful, please:
 ## ⚠️ Disclaimer
 
 This tool is made for **educational and legal penetration testing** purposes only. Misuse of this tool for illegal activities is strictly prohibited and punishable under law. Use responsibly.
+
+## 📌 Contact Me
+
+<a href="https://youtube.com/@firewallbreaker09">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style>
+</a>
+<br>
+
+<a href="https://github.com/thakur2309?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=>
+</a>
+<br>
+
+<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?styl>
+</a>

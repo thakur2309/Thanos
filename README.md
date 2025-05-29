@@ -55,7 +55,8 @@ chmod +x start.sh
 
 ### Start tool command
 ```
-bash start.sh
+python3 thanos.py
+```
 
 ## 📁 Output
 

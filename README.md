@@ -3,7 +3,7 @@
 Welcome to **UltraPassGen**, a powerful wordlist generator written in Python. Designed for ethical hackers and cybersecurity learners, this tool helps you generate custom password lists using personal details and symbols for better brute-force testing.
 
 > 🎯 Developed by **Alok Thakur**  
-> 🎥 YouTube: [Firewall Breaker](https://youtube.com/@firewallbreaker)  
+> 🎥 YouTube: [Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)  
 > ⚠️ For **educational purposes only**
 
 ---
@@ -46,7 +46,7 @@ This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for
 If you find this tool helpful, please:
 
 - 🌟 Star the repo  
-- 🔔 Subscribe on YouTube → [Firewall Breaker](https://youtube.com/@firewallbreaker)  
+- 🔔 Subscribe on YouTube → [Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)  
 - 💬 Share with your ethical hacking friends
 
 ---
